@@ -394,6 +394,96 @@ Welcome to the **Ultimate Android FOSS** repository! This curated list features 
 |----------|-------------|-------------------|-------|
 | **LocalSend** | A drop-in replacement for AirDrop that securely shares files across devices locally. | https://github.com/localsend/localsend | 42k+ |
 
+### 45. Gaming Emulators
+| App Name | Description | GitHub Repo | Approx. Stars |
+|----------|-------------|-------------|---------------|
+| **RetroArch** | A frontend for emulators, game engines, and media players | [https://github.com/libretro/RetroArch](https://github.com/libretro/RetroArch) | ⭐ 42k |
+| **Dolphin** | A GameCube and Wii emulator with high compatibility | [https://github.com/dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) | ⭐ 25k |
+| **PPSSPP** | A fast and portable PSP emulator for Android | [https://github.com/hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) | ⭐ 18k |
+| **Skyline Emulator** | An experimental Nintendo Switch emulator for Android | [https://github.com/skyline-emu/skyline](https://github.com/skyline-emu/skyline) | ⭐ 10k |
+| **Citra** | A Nintendo 3DS emulator built for speed and accuracy | [https://github.com/citra-emu/citra](https://github.com/citra-emu/citra) | ⭐ 9k |
+
+### 46. Smart Home & IoT
+| App Name | Description | GitHub Repo | Approx. Stars |
+|----------|-------------|-------------|---------------|
+| **Home Assistant** | The official companion app for Home Assistant automation | [https://github.com/home-assistant/android](https://github.com/home-assistant/android) | ⭐ 5.5k |
+| **KDE Connect** | Seamlessly connects your Android device with your desktop | [https://github.com/KDE/kdeconnect-android](https://github.com/KDE/kdeconnect-android) | ⭐ 4k |
+| **openHAB** | App for controlling your openHAB smart home environment | [https://github.com/openhab/openhab-android](https://github.com/openhab/openhab-android) | ⭐ 1.2k |
+| **Android MQTT Alarm Panel** | An IoT alarm panel for controlling your smart home via MQTT | [https://github.com/thanksmister/android-mqtt-alarm-panel](https://github.com/thanksmister/android-mqtt-alarm-panel) | ⭐ 700 |
+| **Domoticz Android** | Client for the Domoticz home automation system | [https://github.com/domoticz/domoticz-android](https://github.com/domoticz/domoticz-android) | ⭐ 450 |
+
+### 47. Astronomy & Science
+| App Name | Description | GitHub Repo | Approx. Stars |
+|----------|-------------|-------------|---------------|
+| **Sky Map (Stardroid)** | An open-source planetarium and sky map for Android | [https://github.com/sky-map-team/stardroid](https://github.com/sky-map-team/stardroid) | ⭐ 2.5k |
+| **BOINC** | Use your phone's idle computing power for scientific research | [https://github.com/BOINC/boinc](https://github.com/BOINC/boinc) | ⭐ 2k |
+| **Science Journal** | Uses device sensors to run automated science experiments | [https://github.com/google/science-journal](https://github.com/google/science-journal) | ⭐ 1.5k |
+| **Phyphox** | Uses your phone's sensors for sophisticated physics experiments | [https://github.com/phyphox/phyphox-android](https://github.com/phyphox/phyphox-android) | ⭐ 800 |
+| **SatStat** | A diagnostic tool for GPS, GLONASS, and various sensors | [https://github.com/mvglasow/satstat](https://github.com/mvglasow/satstat) | ⭐ 400 |
+
+### 48. Calculators & Math
+| App Name | Description | GitHub Repo | Approx. Stars |
+|----------|-------------|-------------|---------------|
+| **Simple Calculator** | A beautifully simple, ad-free and open-source calculator | [https://github.com/SimpleMobileTools/Simple-Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) | ⭐ 1.3k |
+| **microMathematics** | Visual calculator and mathematical expression solver | [https://github.com/mkulesh/microMathematics](https://github.com/mkulesh/microMathematics) | ⭐ 1.2k |
+| **OpenCalc** | A modern, clean, material design calculator alternative | [https://github.com/Darkempire78/OpenCalc](https://github.com/Darkempire78/OpenCalc) | ⭐ 600 |
+| **Calculator++** | An advanced scientific calculator with graphing features | [https://github.com/vmihalachi/calculatorpp](https://github.com/vmihalachi/calculatorpp) | ⭐ 500 |
+| **NCalc** | Extremely powerful scientific calculator with formula support | [https://github.com/tranleduy2000/ncalc](https://github.com/tranleduy2000/ncalc) | ⭐ 400 |
+
+### 49. Widgets & Customization
+| App Name | Description | GitHub Repo | Approx. Stars |
+|----------|-------------|-------------|---------------|
+| **Lawnchair** | A highly customizable, pixel-like Android launcher | [https://github.com/LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) | ⭐ 12k |
+| **Shizuku** | Allows apps to perform system-level tasks without root access | [https://github.com/RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) | ⭐ 11k |
+| **Muzei** | A live wallpaper app that gently refreshes your home screen | [https://github.com/romannurik/muzei](https://github.com/romannurik/muzei) | ⭐ 5k |
+| **Olauncher** | A minimal, distraction-free Android launcher | [https://github.com/tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) | ⭐ 3k |
+| **Material You Widgets** | Brings dynamic color widgets to older Android versions | [https://github.com/MrBIMC/MaterialYouWidgets](https://github.com/MrBIMC/MaterialYouWidgets) | ⭐ 400 |
+
+### 50. Habit Trackers & Mental Health
+| App Name | Description | GitHub Repo | Approx. Stars |
+|----------|-------------|-------------|---------------|
+| **Logseq** | A privacy-first, open-source knowledge base and outliner | [https://github.com/logseq/logseq](https://github.com/logseq/logseq) | ⭐ 30k |
+| **Loop Habit Tracker** | An ad-free, simple, and elegant habit tracking application | [https://github.com/iSoron/uhabits](https://github.com/iSoron/uhabits) | ⭐ 6k |
+| **Medito** | A 100% free meditation app for mindfulness and mental health | [https://github.com/meditohq/medito-app](https://github.com/meditohq/medito-app) | ⭐ 1.2k |
+| **Track & Graph** | Track habits, symptoms, and data with powerful charts | [https://github.com/SamAmco/track-and-graph](https://github.com/SamAmco/track-and-graph) | ⭐ 900 |
+| **Proddy** | A minimalist habit tracker focused on mental clarity | [https://github.com/proddy-app/proddy-android](https://github.com/proddy-app/proddy-android) | ⭐ 200 |
+
+### 51. Travel & Public Transport
+| App Name | Description | GitHub Repo | Approx. Stars |
+|----------|-------------|-------------|---------------|
+| **Organic Maps** | Fast, detailed offline maps built on OpenStreetMap data | [https://github.com/organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | ⭐ 7.5k |
+| **OsmAnd** | Highly customizable offline map and navigation app | [https://github.com/osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) | ⭐ 4.5k |
+| **Transportr** | Public transit companion respecting your privacy | [https://github.com/grote/Transportr](https://github.com/grote/Transportr) | ⭐ 1.5k |
+| **Navit** | Open-source vector-based routing and navigation app | [https://github.com/navit-gps/navit](https://github.com/navit-gps/navit) | ⭐ 1.5k |
+| **OneBusAway** | A real-time transit and bus arrival tracker | [https://github.com/OneBusAway/onebusaway-android](https://github.com/OneBusAway/onebusaway-android) | ⭐ 800 |
+
+### 52. Diet & Fasting Trackers
+| App Name | Description | GitHub Repo | Approx. Stars |
+|----------|-------------|-------------|---------------|
+| **Open Food Facts** | Scan food products to see ingredients, scores, and nutrition | [https://github.com/openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp) | ⭐ 2.5k |
+| **RunnerUp** | Open source run and fitness tracker using GPS | [https://github.com/jonasoreland/runnerup](https://github.com/jonasoreland/runnerup) | ⭐ 1.2k |
+| **Waistline** | A simple calorie counter and weight tracker | [https://github.com/davidhealey/waistline](https://github.com/davidhealey/waistline) | ⭐ 900 |
+| **FitoTrack** | A privacy-focused workout, cycling, and running tracker | [https://github.com/Zensey/FitoTrack](https://github.com/Zensey/FitoTrack) | ⭐ 500 |
+| **wger (Flutter)** | The companion mobile app for the wger fitness/diet API | [https://github.com/wger-project/flutter](https://github.com/wger-project/flutter) | ⭐ 400 |
+
+### 53. Audiobooks & E-books (Niche)
+| App Name | Description | GitHub Repo | Approx. Stars |
+|----------|-------------|-------------|---------------|
+| **KOReader** | An advanced document and e-book reader optimized for e-ink | [https://github.com/koreader/koreader](https://github.com/koreader/koreader) | ⭐ 14k |
+| **Voice** | A minimalist, local audiobook player with bookmarking | [https://github.com/PaulWoitaschek/Voice](https://github.com/PaulWoitaschek/Voice) | ⭐ 1.8k |
+| **Librera Reader** | A multi-format e-book reader with advanced customization | [https://github.com/foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) | ⭐ 1.5k |
+| **KuroReader** | An open-source comic/manga reader application | [https://github.com/K1rakishou/KuroReader](https://github.com/K1rakishou/KuroReader) | ⭐ 800 |
+| **Android Book Reader** | A lightweight and speedy book reader for classic formats | [https://github.com/axet/android-book-reader](https://github.com/axet/android-book-reader) | ⭐ 700 |
+
+### 54. Niche Developer Tools
+| App Name | Description | GitHub Repo | Approx. Stars |
+|----------|-------------|-------------|---------------|
+| **Termux** | A powerful terminal emulator providing a Linux environment | [https://github.com/termux/termux-app](https://github.com/termux/termux-app) | ⭐ 30k |
+| **KernelSU** | A Kernel-based root solution offering seamless modularity | [https://github.com/tiann/KernelSU](https://github.com/tiann/KernelSU) | ⭐ 10k |
+| **WiFi Analyzer** | Analyze nearby WiFi networks to optimize channel usage | [https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) | ⭐ 4k |
+| **App Manager** | A full-featured package manager providing deep app insights | [https://github.com/MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) | ⭐ 4k |
+| **Inspeckage** | An Android dynamic analysis tool for reverse engineering apps | [https://github.com/ac-pm/Inspeckage](https://github.com/ac-pm/Inspeckage) | ⭐ 2k |
+
 ---
 
 <div align="center">
