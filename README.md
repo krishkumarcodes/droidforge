@@ -1,17 +1,17 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=250&section=header&text=Awesome%20Android%20FOSS&fontSize=50&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=📱%20The%20Ultimate%20Collection%20of%20220+%20Free%20&%20Open-Source%20Android%20Apps&descSize=18&descAlignY=58&descAlign=50&stroke=00FF41&strokeWidth=1" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=250&section=header&text=DroidForge%20⚔️&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=📱%20The%20Ultimate%20Collection%20of%20270+%20Free%20&%20Open-Source%20Android%20Apps&descSize=18&descAlignY=58&descAlign=50&stroke=00FF41&strokeWidth=1" width="100%" alt="Header" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-00FF41?style=for-the-badge&logoColor=0D1117&labelColor=0D1117" alt="Maintained" />
   <img src="https://img.shields.io/badge/Open%20Source-100%25-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117" alt="Open Source" />
-  <img src="https://img.shields.io/badge/Apps-220+-00FF41?style=for-the-badge&logoColor=0D1117&labelColor=0D1117" alt="Apps" />
+  <img src="https://img.shields.io/badge/Apps-270+-00FF41?style=for-the-badge&logoColor=0D1117&labelColor=0D1117" alt="Apps" />
 </div>
 
 <br>
 
-Welcome to the **Ultimate Android FOSS** repository! This curated list features the best, highest-quality open-source Android applications available on GitHub. Ditch the proprietary trackers, ads, and bloatware—switch to FOSS!
+Welcome to **DroidForge**, the ultimate Android FOSS repository! This carefully curated list features the best, highest-quality open-source Android applications available on GitHub. Ditch the proprietary trackers, ads, and bloatware—switch to FOSS and forge a cleaner, safer digital life!
 
 ---
 
