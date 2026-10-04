@@ -13,7 +13,9 @@
 > **✨ Clipboard & Text Tools** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repository | Stars |
-|
+|----------|-------------|-------------------|-------|
+| **XClipper** | A smart clipboard manager that syncs copied text between Android and Windows. | https://github.com/kaustubhpatange/XClipper | 1k+ |
+| **Clip Stack** | A powerful clipboard history manager that keeps track of copied text. | https://github.com/heruoxin/Clip-Stack | 1k+ |
 
 ---
 <div align="center">

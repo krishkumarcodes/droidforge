@@ -13,7 +13,12 @@
 > **✨ Gaming Emulators** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repo | Approx. Stars |
-|
+|----------|-------------|-------------|---------------|
+| **RetroArch** | A frontend for emulators, game engines, and media players | [https://github.com/libretro/RetroArch](https://github.com/libretro/RetroArch) | ⭐ 42k |
+| **Dolphin** | A GameCube and Wii emulator with high compatibility | [https://github.com/dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) | ⭐ 25k |
+| **PPSSPP** | A fast and portable PSP emulator for Android | [https://github.com/hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) | ⭐ 18k |
+| **Skyline Emulator** | An experimental Nintendo Switch emulator for Android | [https://github.com/skyline-emu/skyline](https://github.com/skyline-emu/skyline) | ⭐ 10k |
+| **Citra** | A Nintendo 3DS emulator built for speed and accuracy | [https://github.com/citra-emu/citra](https://github.com/citra-emu/citra) | ⭐ 9k |
 
 ---
 <div align="center">

@@ -13,7 +13,11 @@
 > **✨ Calendar & Organizers** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repository | Stars |
-|
+|---|---|---|---|
+| **Loop Habit Tracker** | Powerful app for creating and maintaining good habits. | https://github.com/iSoron/uhabits | 10k+ |
+| **Etar** | Beautiful and reliable Material design calendar. | https://github.com/Etar-Group/Etar-Calendar | 5k+ |
+| **Fossify Calendar** | Simple offline calendar app free of ads and tracking. | https://github.com/FossifyOrg/Calendar | 2k+ |
+| **OpenTasks** | Organized task manager supporting offline tasks and sync. | https://github.com/dmfs/opentasks | 2k+ |
 
 ---
 <div align="center">

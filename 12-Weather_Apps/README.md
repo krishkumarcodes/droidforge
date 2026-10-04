@@ -13,7 +13,12 @@
 > **✨ Weather Apps** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repo | Stars |
-| :
+| :--- | :--- | :--- | :--- |
+| **Breezy Weather** | Feature-rich Material Design weather app | [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) | 3k+ |
+| **Geometric Weather** | Beautiful and precise weather forecast | [WangDaYeeeeee/GeometricWeather](https://github.com/WangDaYeeeeee/GeometricWeather) | 2k+ |
+| **Prognoza** | Simple weather app built on Jetpack Compose | [davidtakac/prognoza](https://github.com/davidtakac/prognoza) | 500+ |
+| **Forecastie** | Lightweight OpenWeatherMap client | [martykan/forecastie](https://github.com/martykan/forecastie) | 1k+ |
+| **Simple Weather** | Basic minimalist weather viewer | [SimpleMobileTools/Simple-Weather](https://github.com/SimpleMobileTools/Simple-Weather) | 1k+ |
 
 ---
 <div align="center">

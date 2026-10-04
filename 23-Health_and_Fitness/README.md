@@ -13,7 +13,12 @@
 > **✨ Health & Fitness** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repository | Stars |
-|
+|---|---|---|---|
+| **Gadgetbridge** | App for synchronizing fitness bands without a vendor lock-in. | https://github.com/Freeyourgadget/Gadgetbridge | 5k+ |
+| **OpenTracks** | Privacy-focused sports tracker for running and biking. | https://github.com/OpenTracksApp/OpenTracks | 2k+ |
+| **wger** | Client for the wger workout, fitness, and diet manager ecosystem. | https://github.com/wger-project/wger | 3k+ |
+| **RunnerUp** | Open-source run tracker app integrating with various heart rate monitors. | https://github.com/jonasoreland/runnerup | 1k+ |
+| **FastnFitness** | Weightlifting and fitness tracker tailored for performance tracking. | https://github.com/brodeurlv/fastnfitness | 1k+ |
 
 ---
 <div align="center">

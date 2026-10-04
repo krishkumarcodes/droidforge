@@ -13,7 +13,9 @@
 > **✨ Office & Productivity** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repository | Stars |
-|
+|---|---|---|---|
+| **Super Productivity** | Advanced ToDo list, time tracker, and Jira task manager. | https://github.com/johannesjo/super-productivity | 10k+ |
+| **Collabora Office** | Mobile app bringing LibreOffice document editing capabilities. | https://github.com/CollaboraOnline/online | 5k+ |
 
 ---
 <div align="center">

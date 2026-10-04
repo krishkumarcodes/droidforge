@@ -13,7 +13,12 @@
 > **✨ Calculators & Math** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repo | Approx. Stars |
-|
+|----------|-------------|-------------|---------------|
+| **Simple Calculator** | A beautifully simple, ad-free and open-source calculator | [https://github.com/SimpleMobileTools/Simple-Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) | ⭐ 1.3k |
+| **microMathematics** | Visual calculator and mathematical expression solver | [https://github.com/mkulesh/microMathematics](https://github.com/mkulesh/microMathematics) | ⭐ 1.2k |
+| **OpenCalc** | A modern, clean, material design calculator alternative | [https://github.com/Darkempire78/OpenCalc](https://github.com/Darkempire78/OpenCalc) | ⭐ 600 |
+| **Calculator++** | An advanced scientific calculator with graphing features | [https://github.com/vmihalachi/calculatorpp](https://github.com/vmihalachi/calculatorpp) | ⭐ 500 |
+| **NCalc** | Extremely powerful scientific calculator with formula support | [https://github.com/tranleduy2000/ncalc](https://github.com/tranleduy2000/ncalc) | ⭐ 400 |
 
 ---
 <div align="center">

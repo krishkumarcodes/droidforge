@@ -13,7 +13,11 @@
 > **✨ Automation (Tasker alternatives)** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repository | Stars |
-|
+|----------|-------------|-------------------|-------|
+| **Smart-AutoClicker** | An automated tapping tool based on screen image detection, excellent for gaming automation. | https://github.com/Nain57/Smart-AutoClicker | 1k+ |
+| **Termux:Tasker** | A plugin that allows Tasker and compatible apps to run scripts inside Termux. | https://github.com/termux/termux-tasker | 1k+ |
+| **AutoStart** | A small utility to automatically launch an application when the device boots up. | https://github.com/drsync/AutoStart | 500+ |
+| **WiFi-Auto-Off** | Automatically turns off WiFi under specific conditions to save battery life. | https://github.com/j4velin/WiFi-Auto-Off | 500+ |
 
 ---
 <div align="center">

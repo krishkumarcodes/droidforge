@@ -13,7 +13,12 @@
 > **✨ Widgets & Customization** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repo | Approx. Stars |
-|
+|----------|-------------|-------------|---------------|
+| **Lawnchair** | A highly customizable, pixel-like Android launcher | [https://github.com/LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) | ⭐ 12k |
+| **Shizuku** | Allows apps to perform system-level tasks without root access | [https://github.com/RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) | ⭐ 11k |
+| **Muzei** | A live wallpaper app that gently refreshes your home screen | [https://github.com/romannurik/muzei](https://github.com/romannurik/muzei) | ⭐ 5k |
+| **Olauncher** | A minimal, distraction-free Android launcher | [https://github.com/tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) | ⭐ 3k |
+| **Material You Widgets** | Brings dynamic color widgets to older Android versions | [https://github.com/MrBIMC/MaterialYouWidgets](https://github.com/MrBIMC/MaterialYouWidgets) | ⭐ 400 |
 
 ---
 <div align="center">

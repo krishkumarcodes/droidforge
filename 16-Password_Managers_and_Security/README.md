@@ -13,7 +13,12 @@
 > **✨ Password Managers & Security** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repository | Stars |
-|
+|---|---|---|---|
+| **Bitwarden** | Official Android client for the Bitwarden password manager. | https://github.com/bitwarden/mobile | 10k+ |
+| **KeePassDX** | Lightweight and fully featured KeePass client for Android. | https://github.com/Kunzisoft/KeePassDX | 5k+ |
+| **AuthPass** | Password manager compatible with KeePass based on Flutter. | https://github.com/authpass/authpass | 1k+ |
+| **Password Store** | Android client for the standard password manager (`pass`). | https://github.com/AndroidPasswordStore/AndroidPasswordStore | 2k+ |
+| **Proton Pass** | Open-source Android app for the Proton Pass ecosystem. | https://github.com/protonpass/android | 1k+ |
 
 ---
 <div align="center">

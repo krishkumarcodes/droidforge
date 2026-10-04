@@ -13,7 +13,12 @@
 > **✨ System Utilities & Automation** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repository | Stars |
-|
+|---|---|---|---|
+| **Shizuku** | Utility utilizing ADB privileges to empower app APIs without rooting. | https://github.com/RikkaApps/Shizuku | 15k+ |
+| **App Manager** | Ultimate package manager allowing extensive app inspection. | https://github.com/MuntashirAkon/AppManager | 10k+ |
+| **KDE Connect** | Seamlessly connects and synchronizes your Android device with your PC. | https://github.com/KDE/kdeconnect-android | 5k+ |
+| **SD Maid SE** | Modern storage cleaning and system cleanup utility. | https://github.com/d4rken-org/sdmaid-se | 5k+ |
+| **Easer** | Event-driven, scriptless automation framework for device tasks. | https://github.com/renyuneyun/Easer | 2k+ |
 
 ---
 <div align="center">

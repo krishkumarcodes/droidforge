@@ -13,7 +13,12 @@
 > **✨ System Monitoring & Benchmark** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repo Link | Approx Stars |
-|
+|---|---|---|---|
+| **CPU Info** | A comprehensive hardware and software information utility providing deep device statistics. | https://github.com/kgurgul/cpuinfo | 1.5k |
+| **AnotherMonitor** | Tracks and visualizes CPU and memory usage of the system and individual background tasks. | https://github.com/aattz/AnotherMonitor | 400 |
+| **System Monitor** | An all-in-one monitor for tracking Wi-Fi, sensors, battery, CPU, RAM, and background tasks. | https://github.com/fg2014/SystemMonitor | 200 |
+| **RTMON** | A retro-aesthetic widget providing real-time statistics on device processing and network usage. | https://github.com/n1th1n-19/RTMON | 150 |
+| **Running Services** | A streamlined utility app that specifically focuses on viewing background Android services. | https://github.com/biplobsd/running_services_monitor | 50 |
 
 ---
 <div align="center">

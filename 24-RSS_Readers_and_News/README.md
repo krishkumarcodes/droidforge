@@ -13,7 +13,12 @@
 > **✨ RSS Readers & News** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repository | Stars |
-|
+|---|---|---|---|
+| **ReadYou** | A polished, modern RSS reader heavily utilizing Material You design. | https://github.com/Ashinch/ReadYou | 10k+ |
+| **NewsBlur** | Mobile app for the popular personal news reader service. | https://github.com/samuelclay/NewsBlur | 7k+ |
+| **Feeder** | Free, powerful, and ad-free offline RSS feed reader. | https://github.com/spacecowboy/Feeder | 5k+ |
+| **Nextcloud News** | Client for the Nextcloud News RSS synchronisation service. | https://github.com/nextcloud/news-android | 2k+ |
+| **Flym** | Simple, modern, and lightweight RSS/Atom news reader. | https://github.com/FredJul/Flym | 2k+ |
 
 ---
 <div align="center">

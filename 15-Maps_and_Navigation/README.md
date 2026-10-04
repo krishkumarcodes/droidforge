@@ -13,7 +13,12 @@
 > **✨ Maps & Navigation** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repo | Stars |
-| :
+| :--- | :--- | :--- | :--- |
+| **Organic Maps** | Fast, offline-first maps utilizing OpenStreetMap data | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 8k+ |
+| **OsmAnd** | Powerful global map viewer and routing tool | [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) | 5k+ |
+| **StreetComplete** | Gamified OpenStreetMap contributor map | [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) | 5k+ |
+| **c:geo** | Open-source geocaching map application | [cgeo/cgeo](https://github.com/cgeo/cgeo) | 2k+ |
+| **Transportr** | Public transport router combining many API backends | [grote/Transportr](https://github.com/grote/Transportr) | 1k+ |
 
 ---
 <div align="center">

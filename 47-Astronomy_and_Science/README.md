@@ -13,7 +13,12 @@
 > **✨ Astronomy & Science** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repo | Approx. Stars |
-|
+|----------|-------------|-------------|---------------|
+| **Sky Map (Stardroid)** | An open-source planetarium and sky map for Android | [https://github.com/sky-map-team/stardroid](https://github.com/sky-map-team/stardroid) | ⭐ 2.5k |
+| **BOINC** | Use your phone's idle computing power for scientific research | [https://github.com/BOINC/boinc](https://github.com/BOINC/boinc) | ⭐ 2k |
+| **Science Journal** | Uses device sensors to run automated science experiments | [https://github.com/google/science-journal](https://github.com/google/science-journal) | ⭐ 1.5k |
+| **Phyphox** | Uses your phone's sensors for sophisticated physics experiments | [https://github.com/phyphox/phyphox-android](https://github.com/phyphox/phyphox-android) | ⭐ 800 |
+| **SatStat** | A diagnostic tool for GPS, GLONASS, and various sensors | [https://github.com/mvglasow/satstat](https://github.com/mvglasow/satstat) | ⭐ 400 |
 
 ---
 <div align="center">

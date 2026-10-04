@@ -13,7 +13,12 @@
 > **✨ Terminal Emulators & Dev Tools** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repository | Stars |
-|
+|---|---|---|---|
+| **Termux** | Powerful terminal emulator and Linux environment app without root. | https://github.com/termux/termux-app | 30k+ |
+| **Acode** | Lightweight, fast, and robust code and text editor. | https://github.com/deadlyjack/Acode | 5k+ |
+| **ConnectBot** | The premier, legacy-rich Secure Shell (SSH) client for Android. | https://github.com/connectbot/connectbot | 5k+ |
+| **MGit** | Fully featured Git client tailored for managing local repositories. | https://github.com/maks/MGit | 2k+ |
+| **Material Terminal** | Simplified and styled Material design terminal client. | https://github.com/naman14/MaterialTerminal | 1k+ |
 
 ---
 <div align="center">

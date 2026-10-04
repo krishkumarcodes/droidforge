@@ -13,7 +13,11 @@
 > **✨ Root & Magisk Tools** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repository | Stars |
-|
+|----------|-------------|-------------------|-------|
+| **Magisk** | The ultimate open-source suite for Android systemless modification and root access. | https://github.com/topjohnwu/Magisk | 41k+ |
+| **KernelSU** | A kernel-based rooting solution that is harder to detect by banking/DRM apps. | https://github.com/tiann/KernelSU | 13k+ |
+| **LSPosed** | An ART hook framework providing Xposed-like modules functionality systemlessly (Archived). | https://github.com/LSPosed/LSPosed | 17k+ |
+| **APatch** | A newer root solution similar to KernelSU, hooking the kernel space to patch Android. | https://github.com/bmax121/APatch | 4k+ |
 
 ---
 <div align="center">

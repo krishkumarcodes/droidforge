@@ -13,7 +13,12 @@
 > **✨ Anime Streaming Apps** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repository | Stars |
-|
+|----------|-------------|-------------------|-------|
+| **Aniyomi** | An unofficial fork of Tachiyomi that adds anime tracking and streaming capabilities. | https://github.com/aniyomiorg/aniyomi | 16k+ |
+| **CloudStream 3** | A multi-provider media indexer and player supporting anime, movies, and TV shows. | https://github.com/recloudstream/cloudstream | 14k+ |
+| **Dantotsu** | An excellent Anilist client for tracking and streaming anime/manga (Saikou successor). | https://github.com/rebelonion/Dantotsu | 4k+ |
+| **Shiro** | A beautifully designed minimalist anime streaming application. | https://github.com/Bnyro/Shiro | 1k+ |
+| **Animity** | An anime application built with Jetpack Compose using the Gogoanime API. | https://github.com/kl3jvi/animity | 1k+ |
 
 ---
 <div align="center">

@@ -13,7 +13,12 @@
 > **✨ Keyboards** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repo | Stars |
-| :
+| :--- | :--- | :--- | :--- |
+| **FlorisBoard** | Modern keyboard heavily focused on privacy and customization | [florisboard/florisboard](https://github.com/florisboard/florisboard) | 6k+ |
+| **AnySoftKeyboard** | Flexible keyboard with many language packs | [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) | 4k+ |
+| **OpenBoard** | AOSP-based keyboard without Google dependencies | [openboard-team/openboard](https://github.com/openboard-team/openboard) | 4k+ |
+| **HeliBoard** | Privacy-conscious, fully customizable typing experience | [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) | 2k+ |
+| **Simple Keyboard** | Lightweight, barebones typing keyboard | [rkkr/simple-keyboard](https://github.com/rkkr/simple-keyboard) | 2k+ |
 
 ---
 <div align="center">

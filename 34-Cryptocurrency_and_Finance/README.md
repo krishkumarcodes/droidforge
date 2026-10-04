@@ -13,7 +13,12 @@
 > **✨ Cryptocurrency & Finance** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repository | Stars |
-|
+|----------|-------------|-------------------|-------|
+| **Bitcoin Wallet** | One of the oldest and most established standalone Bitcoin wallets for Android. | https://github.com/bitcoin-wallet/bitcoin-wallet | 2k+ |
+| **Ivy Wallet** | An open-source money manager and budget planner built with Jetpack Compose. | https://github.com/Ivy-Wallet/ivy-wallet | 2k+ |
+| **MyExpenses** | A feature-rich GPLv3 finance and expense tracking manager. | https://github.com/mtotschnig/MyExpenses | 1k+ |
+| **Paisa** | A privacy-first personal finance manager based on the double-entry accounting system. | https://github.com/devkabiir/paisa | 1k+ |
+| **AirGap Wallet** | A crypto wallet application that integrates with AirGap Vault for cold storage functionality. | https://github.com/airgap-it/airgap-wallet | 500+ |
 
 ---
 <div align="center">

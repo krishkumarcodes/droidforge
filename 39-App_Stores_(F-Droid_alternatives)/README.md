@@ -13,7 +13,12 @@
 > **✨ App Stores (F-Droid alternatives)** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repository | Stars |
-|
+|----------|-------------|-------------------|-------|
+| **F-Droid** | The official client for the F-Droid repository, serving FOSS Android apps exclusively. | https://github.com/f-droid/fdroidclient | 5k+ |
+| **Obtainium** | Install and update open-source apps directly from their source releases (GitHub, GitLab). | https://github.com/ImranR98/Obtainium | 7k+ |
+| **Neo Store** | A modern F-Droid client built with Jetpack Compose featuring Material You design. | https://github.com/NeoApplications/Neo-Store | 2k+ |
+| **Droid-ify** | A lightweight, fast, Material-designed F-Droid client. | https://github.com/Droid-ify/client | 3k+ |
+| **Aurora Store** | A Google Play Store client allowing you to download apps without a Google account. | https://github.com/auroraoss/AuroraStore | 7k+ |
 
 ---
 <div align="center">

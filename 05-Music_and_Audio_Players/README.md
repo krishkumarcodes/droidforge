@@ -13,7 +13,12 @@
 > **✨ Music & Audio Players** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repo | Stars |
-| :
+| :--- | :--- | :--- | :--- |
+| **Spotube** | Spotify client that uses YouTube for audio delivery | [KRTirtho/spotube](https://github.com/KRTirtho/spotube) | 20k+ |
+| **Retro Music Player** | Stunningly designed local music player | [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) | 6k+ |
+| **Vinyl Music Player** | Material design offline music player | [VinylMusicPlayer/VinylMusicPlayer](https://github.com/VinylMusicPlayer/VinylMusicPlayer) | 2k+ |
+| **Musify** | Ad-free music streaming and downloading | [gokadzev/Musify](https://github.com/gokadzev/Musify) | 3k+ |
+| **Music Player GO** | Minimal, lightweight local audio player | [enricocid/Music-Player-GO](https://github.com/enricocid/Music-Player-GO) | 1k+ |
 
 ---
 <div align="center">

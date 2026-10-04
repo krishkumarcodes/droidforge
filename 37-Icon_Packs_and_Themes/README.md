@@ -13,7 +13,12 @@
 > **✨ Icon Packs & Themes** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repository | Stars |
-|
+|----------|-------------|-------------------|-------|
+| **Lawnicons** | A themed icon pack for Lawnchair that brings Material You styling to thousands of apps. | https://github.com/LawnchairLauncher/lawnicons | 3k+ |
+| **Arcticons** | A beautiful, minimalist line-based icon pack featuring over 9,000 FOSS icons. | https://github.com/Donnnno/Arcticons | 2k+ |
+| **CandyBar Dashboard** | An open-source Android dashboard widely used by designers to create customized icon packs. | https://github.com/zixpo/candybar-sample | 2k+ |
+| **Phosphor Icons** | A flexible icon family offering a clean Android icon pack based on Phosphor design. | https://github.com/phosphor-icons/phosphor-android | 1k+ |
+| **MaterialYouIcons** | An ongoing project adapting popular application icons into Android 12+ Material You styles. | https://github.com/KZach/MaterialYouIcons | 500+ |
 
 ---
 <div align="center">

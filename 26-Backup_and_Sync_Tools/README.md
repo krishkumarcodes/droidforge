@@ -13,7 +13,12 @@
 > **✨ Backup & Sync Tools** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repository | Stars |
-|
+|---|---|---|---|
+| **Syncthing** | Decentralized, secure file synchronization app for cross-platform sharing. | https://github.com/syncthing/syncthing-android | 10k+ |
+| **Nextcloud** | Official Nextcloud client providing file sync and sharing functionality. | https://github.com/nextcloud/android | 5k+ |
+| **Seedvault** | Integrated Android backup application for AOSP and custom ROMs. | https://github.com/seedvault-app/seedvault | 2k+ |
+| **Round Sync** | Rclone frontend offering extensive cloud storage backup capabilities. | https://github.com/new-objects/Round-Sync | 2k+ |
+| **Neo Backup** | Modern, comprehensive app backup solution for rooted devices. | https://github.com/NeoApplications/Neo-Backup | 2k+ |
 
 ---
 <div align="center">
