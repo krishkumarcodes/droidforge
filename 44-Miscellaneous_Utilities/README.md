@@ -14,7 +14,7 @@
 
 | App Name | Description | GitHub Repository | Stars |
 |----------|-------------|-------------------|-------|
-| **LocalSend** | A drop-in replacement for AirDrop that securely shares files across devices locally. | https://github.com/localsend/localsend | 42k+ |
+| [**LocalSend**](./LocalSend/README.md) | A drop-in replacement for AirDrop that securely shares files across devices locally. | https://github.com/localsend/localsend | 42k+ |
 
 ---
 <div align="center">

@@ -14,10 +14,10 @@
 
 | App Name | Description | GitHub Repository | Stars |
 |---|---|---|---|
-| **Mindustry** | Intricate sandbox tower defense and factory management game. | https://github.com/Anuken/Mindustry | 20k+ |
-| **OpenTTD** | Android port of the renowned Transport Tycoon Deluxe simulation. | https://github.com/OpenTTD/OpenTTD | 10k+ |
-| **Unciv** | Highly detailed open-source remake of Civilization V. | https://github.com/yairm210/Unciv | 10k+ |
-| **Shattered Pixel Dungeon** | Deep, traditional roguelike RPG game with pixel graphics. | https://github.com/00-Evan/shattered-pixel-dungeon | 5k+ |
+| [**Mindustry**](./Mindustry/README.md) | Intricate sandbox tower defense and factory management game. | https://github.com/Anuken/Mindustry | 20k+ |
+| [**OpenTTD**](./OpenTTD/README.md) | Android port of the renowned Transport Tycoon Deluxe simulation. | https://github.com/OpenTTD/OpenTTD | 10k+ |
+| [**Unciv**](./Unciv/README.md) | Highly detailed open-source remake of Civilization V. | https://github.com/yairm210/Unciv | 10k+ |
+| [**Shattered Pixel Dungeon**](./Shattered_Pixel_Dungeon/README.md) | Deep, traditional roguelike RPG game with pixel graphics. | https://github.com/00-Evan/shattered-pixel-dungeon | 5k+ |
 
 ---
 <div align="center">

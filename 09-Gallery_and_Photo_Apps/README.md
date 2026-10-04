@@ -14,11 +14,11 @@
 
 | App Name | Description | GitHub Repo | Stars |
 | :--- | :--- | :--- | :--- |
-| **Fossify Gallery** | Clean, privacy-first community fork of Simple Gallery | [FossifyOrg/Gallery](https://github.com/FossifyOrg/Gallery) | 2k+ |
-| **Aves** | Advanced gallery app for handling metadata and exotic formats | [deckstills/aves](https://github.com/deckstills/aves) | 2k+ |
-| **Simple Gallery** | Highly customizable offline gallery | [SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) | 5k+ |
-| **Photon Gallery** | Modern Jetpack Compose gallery with smart search | [Bn5prS/Photon_Gallery](https://github.com/Bn5prS/Photon_Gallery) | 1k+ |
-| **ReFra** | Google Photos alternative interface for local images | [IacobIonut01/ReFra](https://github.com/IacobIonut01/ReFra) | 500+ |
+| [**Fossify Gallery**](./Fossify_Gallery/README.md) | Clean, privacy-first community fork of Simple Gallery | [FossifyOrg/Gallery](https://github.com/FossifyOrg/Gallery) | 2k+ |
+| [**Aves**](./Aves/README.md) | Advanced gallery app for handling metadata and exotic formats | [deckstills/aves](https://github.com/deckstills/aves) | 2k+ |
+| [**Simple Gallery**](./Simple_Gallery/README.md) | Highly customizable offline gallery | [SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) | 5k+ |
+| [**Photon Gallery**](./Photon_Gallery/README.md) | Modern Jetpack Compose gallery with smart search | [Bn5prS/Photon_Gallery](https://github.com/Bn5prS/Photon_Gallery) | 1k+ |
+| [**ReFra**](./ReFra/README.md) | Google Photos alternative interface for local images | [IacobIonut01/ReFra](https://github.com/IacobIonut01/ReFra) | 500+ |
 
 ---
 <div align="center">

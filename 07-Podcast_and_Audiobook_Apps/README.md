@@ -14,11 +14,11 @@
 
 | App Name | Description | GitHub Repo | Stars |
 | :--- | :--- | :--- | :--- |
-| **AntennaPod** | Free, flexible, ad-free podcast manager | [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) | 6k+ |
-| **Pocket Casts** | Professional-grade podcast app | [Automattic/pocket-casts-android](https://github.com/Automattic/pocket-casts-android) | 4k+ |
-| **Voice** | Simple, clean audiobook player | [PaulWoitaschek/Voice](https://github.com/PaulWoitaschek/Voice) | 2k+ |
-| **Anytime** | User-friendly podcast player built in Flutter | [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player) | 1k+ |
-| **Podium** | Modern podcast client featuring Jetpack Compose | [aimok04/podium](https://github.com/aimok04/podium) | 500+ |
+| [**AntennaPod**](./AntennaPod/README.md) | Free, flexible, ad-free podcast manager | [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) | 6k+ |
+| [**Pocket Casts**](./Pocket_Casts/README.md) | Professional-grade podcast app | [Automattic/pocket-casts-android](https://github.com/Automattic/pocket-casts-android) | 4k+ |
+| [**Voice**](./Voice/README.md) | Simple, clean audiobook player | [PaulWoitaschek/Voice](https://github.com/PaulWoitaschek/Voice) | 2k+ |
+| [**Anytime**](./Anytime/README.md) | User-friendly podcast player built in Flutter | [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player) | 1k+ |
+| [**Podium**](./Podium/README.md) | Modern podcast client featuring Jetpack Compose | [aimok04/podium](https://github.com/aimok04/podium) | 500+ |
 
 ---
 <div align="center">

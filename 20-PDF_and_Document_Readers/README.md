@@ -14,11 +14,11 @@
 
 | App Name | Description | GitHub Repository | Stars |
 |---|---|---|---|
-| **KOReader** | Highly capable document viewer focused on e-ink and mobile reading. | https://github.com/koreader/koreader | 15k+ |
-| **Librera Reader** | Highly customizable app for reading books and PDFs. | https://github.com/foobnix/LibreraReader | 5k+ |
-| **MJ PDF** | A minimalist, fast, and completely free PDF viewer. | https://github.com/MuntashirAkon/mjpdf | 1k+ |
-| **MuPDF** | Lightweight PDF, XPS, and E-book viewer. | https://github.com/ArtifexSoftware/mupdf | 2k+ |
-| **Document Viewer** | Fast offline document reader without extra dependencies. | https://github.com/dschuermann/document-viewer | 1k+ |
+| [**KOReader**](./KOReader/README.md) | Highly capable document viewer focused on e-ink and mobile reading. | https://github.com/koreader/koreader | 15k+ |
+| [**Librera Reader**](./Librera_Reader/README.md) | Highly customizable app for reading books and PDFs. | https://github.com/foobnix/LibreraReader | 5k+ |
+| [**MJ PDF**](./MJ_PDF/README.md) | A minimalist, fast, and completely free PDF viewer. | https://github.com/MuntashirAkon/mjpdf | 1k+ |
+| [**MuPDF**](./MuPDF/README.md) | Lightweight PDF, XPS, and E-book viewer. | https://github.com/ArtifexSoftware/mupdf | 2k+ |
+| [**Document Viewer**](./Document_Viewer/README.md) | Fast offline document reader without extra dependencies. | https://github.com/dschuermann/document-viewer | 1k+ |
 
 ---
 <div align="center">

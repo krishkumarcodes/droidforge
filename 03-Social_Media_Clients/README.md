@@ -14,12 +14,12 @@
 
 | App Name | Description | GitHub Repo | Stars |
 | :--- | :--- | :--- | :--- |
-| **NewPipe** | Lightweight, privacy-focused YouTube experience | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | 25k+ |
-| **Infinity for Reddit** | Beautiful, feature-rich Reddit client | [Docile-Alligator/Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) | 5k+ |
-| **Tusky** | Lightweight, fast client for Mastodon | [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky) | 3k+ |
-| **Slide for Reddit** | Highly customizable Reddit browser | [ccrama/Slide](https://github.com/ccrama/Slide) | 5k+ |
-| **Fedilab** | Multi-account client for the Fediverse (Mastodon, Pleroma) | [apps-libre/fedilab](https://github.com/apps-libre/fedilab) | 1k+ |
-| **Moshidon** | Modern Material You fork of the official Mastodon app | [lucasggamerm/moshidon](https://github.com/lucasggamerm/moshidon) | 1k+ |
+| [**NewPipe**](./NewPipe/README.md) | Lightweight, privacy-focused YouTube experience | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | 25k+ |
+| [**Infinity for Reddit**](./Infinity_for_Reddit/README.md) | Beautiful, feature-rich Reddit client | [Docile-Alligator/Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) | 5k+ |
+| [**Tusky**](./Tusky/README.md) | Lightweight, fast client for Mastodon | [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky) | 3k+ |
+| [**Slide for Reddit**](./Slide_for_Reddit/README.md) | Highly customizable Reddit browser | [ccrama/Slide](https://github.com/ccrama/Slide) | 5k+ |
+| [**Fedilab**](./Fedilab/README.md) | Multi-account client for the Fediverse (Mastodon, Pleroma) | [apps-libre/fedilab](https://github.com/apps-libre/fedilab) | 1k+ |
+| [**Moshidon**](./Moshidon/README.md) | Modern Material You fork of the official Mastodon app | [lucasggamerm/moshidon](https://github.com/lucasggamerm/moshidon) | 1k+ |
 
 ---
 <div align="center">

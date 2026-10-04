@@ -14,11 +14,11 @@
 
 | App Name | Description | GitHub Repository | Stars |
 |---|---|---|---|
-| **Seal** | Beautiful video/audio downloader powered by yt-dlp using Material You. | https://github.com/JunkFood02/Seal | 30k+ |
-| **LibreTorrent** | Ad-free, modern, and open-source BitTorrent client for Android. | https://github.com/proninyaroslav/libretorrent | 5k+ |
-| **Aria2App** | Mobile client providing easy control over aria2 download servers. | https://github.com/devgianlu/Aria2App | 1k+ |
-| **Transdrone** | Manage your remote torrent seedboxes securely from your device. | https://github.com/erickok/transdrone | 1k+ |
-| **Download Navi** | Free and open-source download manager utilizing Material Design. | https://github.com/TachibanaYui/DownloadNavi | 1k+ |
+| [**Seal**](./Seal/README.md) | Beautiful video/audio downloader powered by yt-dlp using Material You. | https://github.com/JunkFood02/Seal | 30k+ |
+| [**LibreTorrent**](./LibreTorrent/README.md) | Ad-free, modern, and open-source BitTorrent client for Android. | https://github.com/proninyaroslav/libretorrent | 5k+ |
+| [**Aria2App**](./Aria2App/README.md) | Mobile client providing easy control over aria2 download servers. | https://github.com/devgianlu/Aria2App | 1k+ |
+| [**Transdrone**](./Transdrone/README.md) | Manage your remote torrent seedboxes securely from your device. | https://github.com/erickok/transdrone | 1k+ |
+| [**Download Navi**](./Download_Navi/README.md) | Free and open-source download manager utilizing Material Design. | https://github.com/TachibanaYui/DownloadNavi | 1k+ |
 
 ---
 <div align="center">

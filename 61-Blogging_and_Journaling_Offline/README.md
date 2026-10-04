@@ -14,11 +14,11 @@
 
 | App Name | Description | GitHub Repo Link | Approx Stars |
 |---|---|---|---|
-| **Logseq** | A local-first, privacy-focused Markdown outliner and knowledge-base journaling tool. | https://github.com/logseq/logseq | 31.0k |
-| **Standard Notes** | A highly secure, end-to-end encrypted offline-capable note-taking and journaling app. | https://github.com/standardnotes/app | 5.0k |
-| **Joplin** | An extremely robust open-source markdown journal/notebook with offline capabilities. | https://github.com/laurent22/joplin | 47.0k |
-| **Markor** | A powerful, lightweight Markdown text editor specifically tailored for local journaling. | https://github.com/gsantner/markor | 3.7k |
-| **Saber** | A digital, cross-platform notebook and journal specializing in handwritten offline notes. | https://github.com/saber-notes/saber | 2.3k |
+| [**Logseq**](./Logseq/README.md) | A local-first, privacy-focused Markdown outliner and knowledge-base journaling tool. | https://github.com/logseq/logseq | 31.0k |
+| [**Standard Notes**](./Standard_Notes/README.md) | A highly secure, end-to-end encrypted offline-capable note-taking and journaling app. | https://github.com/standardnotes/app | 5.0k |
+| [**Joplin**](./Joplin/README.md) | An extremely robust open-source markdown journal/notebook with offline capabilities. | https://github.com/laurent22/joplin | 47.0k |
+| [**Markor**](./Markor/README.md) | A powerful, lightweight Markdown text editor specifically tailored for local journaling. | https://github.com/gsantner/markor | 3.7k |
+| [**Saber**](./Saber/README.md) | A digital, cross-platform notebook and journal specializing in handwritten offline notes. | https://github.com/saber-notes/saber | 2.3k |
 
 ---
 <div align="center">

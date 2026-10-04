@@ -14,11 +14,11 @@
 
 | App Name | Description | GitHub Repository | Stars |
 |---|---|---|---|
-| **AnkiDroid** | Highly efficient spaced-repetition flashcard learning system. | https://github.com/ankidroid/Anki-Android | 10k+ |
-| **Wikipedia** | Official and beautifully designed Wikipedia client. | https://github.com/wikimedia/apps-android-wikipedia | 5k+ |
-| **Kiwix** | Allows downloading offline Wikipedia databases (ZIM files) and more. | https://github.com/kiwix/kiwix-android | 2k+ |
-| **Phyphox** | Uses your phone sensors for physical science experiments. | https://github.com/RWTH-Aachen/phyphox-android | 2k+ |
-| **OpenFoodFacts** | Collaborative database tracking food ingredients and nutrition. | https://github.com/openfoodfacts/openfoodfacts-androidapp | 1k+ |
+| [**AnkiDroid**](./AnkiDroid/README.md) | Highly efficient spaced-repetition flashcard learning system. | https://github.com/ankidroid/Anki-Android | 10k+ |
+| [**Wikipedia**](./Wikipedia/README.md) | Official and beautifully designed Wikipedia client. | https://github.com/wikimedia/apps-android-wikipedia | 5k+ |
+| [**Kiwix**](./Kiwix/README.md) | Allows downloading offline Wikipedia databases (ZIM files) and more. | https://github.com/kiwix/kiwix-android | 2k+ |
+| [**Phyphox**](./Phyphox/README.md) | Uses your phone sensors for physical science experiments. | https://github.com/RWTH-Aachen/phyphox-android | 2k+ |
+| [**OpenFoodFacts**](./OpenFoodFacts/README.md) | Collaborative database tracking food ingredients and nutrition. | https://github.com/openfoodfacts/openfoodfacts-androidapp | 1k+ |
 
 ---
 <div align="center">

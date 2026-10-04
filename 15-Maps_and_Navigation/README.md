@@ -14,11 +14,11 @@
 
 | App Name | Description | GitHub Repo | Stars |
 | :--- | :--- | :--- | :--- |
-| **Organic Maps** | Fast, offline-first maps utilizing OpenStreetMap data | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 8k+ |
-| **OsmAnd** | Powerful global map viewer and routing tool | [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) | 5k+ |
-| **StreetComplete** | Gamified OpenStreetMap contributor map | [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) | 5k+ |
-| **c:geo** | Open-source geocaching map application | [cgeo/cgeo](https://github.com/cgeo/cgeo) | 2k+ |
-| **Transportr** | Public transport router combining many API backends | [grote/Transportr](https://github.com/grote/Transportr) | 1k+ |
+| [**Organic Maps**](./Organic_Maps/README.md) | Fast, offline-first maps utilizing OpenStreetMap data | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 8k+ |
+| [**OsmAnd**](./OsmAnd/README.md) | Powerful global map viewer and routing tool | [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) | 5k+ |
+| [**StreetComplete**](./StreetComplete/README.md) | Gamified OpenStreetMap contributor map | [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) | 5k+ |
+| [**c:geo**](./c_geo/README.md) | Open-source geocaching map application | [cgeo/cgeo](https://github.com/cgeo/cgeo) | 2k+ |
+| [**Transportr**](./Transportr/README.md) | Public transport router combining many API backends | [grote/Transportr](https://github.com/grote/Transportr) | 1k+ |
 
 ---
 <div align="center">

@@ -1,0 +1,29 @@
+<div align="center" id="top">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0D1117,100:FA76FE&height=120&section=header&text=Shiro&fontSize=40&fontColor=FA76FE&animation=fadeIn&fontAlignY=40" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <h2>Shiro</h2>
+  <p><em>A beautifully designed minimalist anime streaming application.</em></p>
+</div>
+
+---
+
+### 📥 Download & Source
+- **Source Code:** []()
+- **Download:** [Get Latest Release]()
+
+---
+
+### 🖼️ Overview & Screenshots
+
+<div align="center">
+  <p><em>No screenshots found in the main repository.</em></p>
+</div>
+
+---
+<div align="center">
+  <p><kbd> <a href="../README.md">⬅️ Back to Category</a> </kbd> &nbsp;|&nbsp; <kbd> <a href="#top">⬆️ Back to Top</a> </kbd></p>
+</div>

@@ -14,11 +14,11 @@
 
 | App Name | Description | GitHub Repo Link | Approx Stars |
 |---|---|---|---|
-| **Easer** | A highly flexible, event-driven automation app that orchestrates conditions and operations. | https://github.com/renyuneyun/Easer | 1.8k |
-| **AutoDroid** | A privacy-friendly Android automation toolkit for creating localized triggers and actions. | https://github.com/Aditsyal/autodroid | 100 |
-| **DroidWright** | An advanced automation framework offering full system script control using JavaScript. | https://github.com/tas33n/DroidWright | 50 |
-| **OpenDroid** | An autonomous AI agent utilizing accessibility features for smart UI automation. | https://github.com/yashab-cyber/opendroid | 300 |
-| **PrivateAgent** | An AI-driven, LLM-powered background agent to automate multi-step UI navigation tasks. | https://github.com/orailnoor/private-agent | 100 |
+| [**Easer**](./Easer/README.md) | A highly flexible, event-driven automation app that orchestrates conditions and operations. | https://github.com/renyuneyun/Easer | 1.8k |
+| [**AutoDroid**](./AutoDroid/README.md) | A privacy-friendly Android automation toolkit for creating localized triggers and actions. | https://github.com/Aditsyal/autodroid | 100 |
+| [**DroidWright**](./DroidWright/README.md) | An advanced automation framework offering full system script control using JavaScript. | https://github.com/tas33n/DroidWright | 50 |
+| [**OpenDroid**](./OpenDroid/README.md) | An autonomous AI agent utilizing accessibility features for smart UI automation. | https://github.com/yashab-cyber/opendroid | 300 |
+| [**PrivateAgent**](./PrivateAgent/README.md) | An AI-driven, LLM-powered background agent to automate multi-step UI navigation tasks. | https://github.com/orailnoor/private-agent | 100 |
 
 ---
 <div align="center">

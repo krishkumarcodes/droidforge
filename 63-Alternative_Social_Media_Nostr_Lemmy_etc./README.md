@@ -14,11 +14,11 @@
 
 | App Name | Description | GitHub Repo Link | Approx Stars |
 |---|---|---|---|
-| **Amethyst** | The premier, highly-polished Nostr social network client designed for Android devices. | https://github.com/vitorpamplona/amethyst | 1.9k |
-| **Jerboa** | A natively built, modern client application for the decentralized Lemmy platform. | https://github.com/dessalines/jerboa | 1.6k |
-| **Fedilab** | A customizable multi-account client supporting Mastodon, Pleroma, and Peertube. | https://github.com/tom79/Fedilab | 1.0k |
-| **Infinity for Reddit** | A highly customizable and aesthetically pleasing open-source front-end for Reddit. | https://github.com/Docile-Alligator/Infinity-For-Reddit | 7.0k |
-| **Squawker** | An alternative, open-source front-end designed to browse Twitter/X anonymously. | https://github.com/j-hc/squawker | 1.5k |
+| [**Amethyst**](./Amethyst/README.md) | The premier, highly-polished Nostr social network client designed for Android devices. | https://github.com/vitorpamplona/amethyst | 1.9k |
+| [**Jerboa**](./Jerboa/README.md) | A natively built, modern client application for the decentralized Lemmy platform. | https://github.com/dessalines/jerboa | 1.6k |
+| [**Fedilab**](./Fedilab/README.md) | A customizable multi-account client supporting Mastodon, Pleroma, and Peertube. | https://github.com/tom79/Fedilab | 1.0k |
+| [**Infinity for Reddit**](./Infinity_for_Reddit/README.md) | A highly customizable and aesthetically pleasing open-source front-end for Reddit. | https://github.com/Docile-Alligator/Infinity-For-Reddit | 7.0k |
+| [**Squawker**](./Squawker/README.md) | An alternative, open-source front-end designed to browse Twitter/X anonymously. | https://github.com/j-hc/squawker | 1.5k |
 
 ---
 <div align="center">

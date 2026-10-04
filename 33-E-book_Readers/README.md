@@ -14,9 +14,9 @@
 
 | App Name | Description | GitHub Repository | Stars |
 |----------|-------------|-------------------|-------|
-| **Omnivore** | An open-source read-it-later app for saving articles and ebooks for distraction-free reading. | https://github.com/omnivore-app/omnivore | 11k+ |
-| **LNReader** | An application dedicated to reading Light Novels from various online sources. | https://github.com/LNReader/lnreader | 1k+ |
-| **OpenReads** | A privacy-focused reading tracker without social media or ads. | https://github.com/Haringat/OpenReads | 1k+ |
+| [**Omnivore**](./Omnivore/README.md) | An open-source read-it-later app for saving articles and ebooks for distraction-free reading. | https://github.com/omnivore-app/omnivore | 11k+ |
+| [**LNReader**](./LNReader/README.md) | An application dedicated to reading Light Novels from various online sources. | https://github.com/LNReader/lnreader | 1k+ |
+| [**OpenReads**](./OpenReads/README.md) | A privacy-focused reading tracker without social media or ads. | https://github.com/Haringat/OpenReads | 1k+ |
 
 ---
 <div align="center">

@@ -14,11 +14,11 @@
 
 | App Name | Description | GitHub Repo | Stars |
 | :--- | :--- | :--- | :--- |
-| **Fenix (Firefox)** | The official Mozilla Firefox for Android | [mozilla-mobile/firefox-android](https://github.com/mozilla-mobile/firefox-android) | 15k+ |
-| **Bromite** | Chromium fork with ad blocking and privacy enhancements | [bromite/bromite](https://github.com/bromite/bromite) | 6k+ |
-| **Kiwi Browser** | Fast browser with support for Chrome extensions | [kiwibrowser/src](https://github.com/kiwibrowser/src) | 5k+ |
-| **Privacy Browser** | Browser focused on user control and privacy toggles | [stoutner/privacybrowserandroid](https://github.com/stoutner/privacybrowserandroid) | 1k+ |
-| **DuckDuckGo** | Privacy-first browser with tracker blocking | [duckduckgo/Android](https://github.com/duckduckgo/Android) | 2k+ |
+| [**Fenix (Firefox)**](./Fenix__Firefox_/README.md) | The official Mozilla Firefox for Android | [mozilla-mobile/firefox-android](https://github.com/mozilla-mobile/firefox-android) | 15k+ |
+| [**Bromite**](./Bromite/README.md) | Chromium fork with ad blocking and privacy enhancements | [bromite/bromite](https://github.com/bromite/bromite) | 6k+ |
+| [**Kiwi Browser**](./Kiwi_Browser/README.md) | Fast browser with support for Chrome extensions | [kiwibrowser/src](https://github.com/kiwibrowser/src) | 5k+ |
+| [**Privacy Browser**](./Privacy_Browser/README.md) | Browser focused on user control and privacy toggles | [stoutner/privacybrowserandroid](https://github.com/stoutner/privacybrowserandroid) | 1k+ |
+| [**DuckDuckGo**](./DuckDuckGo/README.md) | Privacy-first browser with tracker blocking | [duckduckgo/Android](https://github.com/duckduckgo/Android) | 2k+ |
 
 ---
 <div align="center">

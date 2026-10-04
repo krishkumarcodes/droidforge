@@ -14,11 +14,11 @@
 
 | App Name | Description | GitHub Repo Link | Approx Stars |
 |---|---|---|---|
-| **Exodus Privacy** | Analyzes the apps installed on your device to reveal embedded privacy trackers. | https://github.com/Exodus-Privacy/exodus-android-app | 900 |
-| **TrackerControl** | Analyzes network traffic to block hidden data collection trackers and ads system-wide. | https://github.com/TrackerControl/tracker-control-android | 1.7k |
-| **LibreAV** | A lightweight, open-source anti-malware app utilizing machine learning to detect threats. | https://github.com/projectmatris/antimalwareapp | 300 |
-| **AndroDR** | An on-device endpoint detection tool that scans for spyware, stalkerware, and anomalies. | https://github.com/yasirhamza/AndroDR | 200 |
-| **NetGuard** | A sophisticated rootless firewall that tracks and blocks individual app network accesses. | https://github.com/M66B/NetGuard | 9.0k |
+| [**Exodus Privacy**](./Exodus_Privacy/README.md) | Analyzes the apps installed on your device to reveal embedded privacy trackers. | https://github.com/Exodus-Privacy/exodus-android-app | 900 |
+| [**TrackerControl**](./TrackerControl/README.md) | Analyzes network traffic to block hidden data collection trackers and ads system-wide. | https://github.com/TrackerControl/tracker-control-android | 1.7k |
+| [**LibreAV**](./LibreAV/README.md) | A lightweight, open-source anti-malware app utilizing machine learning to detect threats. | https://github.com/projectmatris/antimalwareapp | 300 |
+| [**AndroDR**](./AndroDR/README.md) | An on-device endpoint detection tool that scans for spyware, stalkerware, and anomalies. | https://github.com/yasirhamza/AndroDR | 200 |
+| [**NetGuard**](./NetGuard/README.md) | A sophisticated rootless firewall that tracks and blocks individual app network accesses. | https://github.com/M66B/NetGuard | 9.0k |
 
 ---
 <div align="center">

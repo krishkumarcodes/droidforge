@@ -14,11 +14,11 @@
 
 | App Name | Description | GitHub Repo | Approx. Stars |
 |----------|-------------|-------------|---------------|
-| **KOReader** | An advanced document and e-book reader optimized for e-ink | [https://github.com/koreader/koreader](https://github.com/koreader/koreader) | ⭐ 14k |
-| **Voice** | A minimalist, local audiobook player with bookmarking | [https://github.com/PaulWoitaschek/Voice](https://github.com/PaulWoitaschek/Voice) | ⭐ 1.8k |
-| **Librera Reader** | A multi-format e-book reader with advanced customization | [https://github.com/foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) | ⭐ 1.5k |
-| **KuroReader** | An open-source comic/manga reader application | [https://github.com/K1rakishou/KuroReader](https://github.com/K1rakishou/KuroReader) | ⭐ 800 |
-| **Android Book Reader** | A lightweight and speedy book reader for classic formats | [https://github.com/axet/android-book-reader](https://github.com/axet/android-book-reader) | ⭐ 700 |
+| [**KOReader**](./KOReader/README.md) | An advanced document and e-book reader optimized for e-ink | [https://github.com/koreader/koreader](https://github.com/koreader/koreader) | ⭐ 14k |
+| [**Voice**](./Voice/README.md) | A minimalist, local audiobook player with bookmarking | [https://github.com/PaulWoitaschek/Voice](https://github.com/PaulWoitaschek/Voice) | ⭐ 1.8k |
+| [**Librera Reader**](./Librera_Reader/README.md) | A multi-format e-book reader with advanced customization | [https://github.com/foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) | ⭐ 1.5k |
+| [**KuroReader**](./KuroReader/README.md) | An open-source comic/manga reader application | [https://github.com/K1rakishou/KuroReader](https://github.com/K1rakishou/KuroReader) | ⭐ 800 |
+| [**Android Book Reader**](./Android_Book_Reader/README.md) | A lightweight and speedy book reader for classic formats | [https://github.com/axet/android-book-reader](https://github.com/axet/android-book-reader) | ⭐ 700 |
 
 ---
 <div align="center">

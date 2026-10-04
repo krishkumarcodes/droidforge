@@ -14,12 +14,12 @@
 
 | App Name | Description | GitHub Repo | Stars |
 | :--- | :--- | :--- | :--- |
-| **Joplin** | Excellent note taking and to-do application with sync | [laurent22/joplin](https://github.com/laurent22/joplin) | 40k+ |
-| **Logseq** | Privacy-first knowledge management platform | [logseq/logseq](https://github.com/logseq/logseq) | 30k+ |
-| **Standard Notes** | End-to-end encrypted note-taking app | [standardnotes/app](https://github.com/standardnotes/app) | 6k+ |
-| **Tasks** | Comprehensive open-source task manager | [tasks/tasks](https://github.com/tasks/tasks) | 3k+ |
-| **Markor** | Text editor optimized for Markdown and todo.txt | [gsantner/markor](https://github.com/gsantner/markor) | 3k+ |
-| **Quillpad** | Beautifully designed offline note-taking app | [quillpad/quillpad](https://github.com/quillpad/quillpad) | 1k+ |
+| [**Joplin**](./Joplin/README.md) | Excellent note taking and to-do application with sync | [laurent22/joplin](https://github.com/laurent22/joplin) | 40k+ |
+| [**Logseq**](./Logseq/README.md) | Privacy-first knowledge management platform | [logseq/logseq](https://github.com/logseq/logseq) | 30k+ |
+| [**Standard Notes**](./Standard_Notes/README.md) | End-to-end encrypted note-taking app | [standardnotes/app](https://github.com/standardnotes/app) | 6k+ |
+| [**Tasks**](./Tasks/README.md) | Comprehensive open-source task manager | [tasks/tasks](https://github.com/tasks/tasks) | 3k+ |
+| [**Markor**](./Markor/README.md) | Text editor optimized for Markdown and todo.txt | [gsantner/markor](https://github.com/gsantner/markor) | 3k+ |
+| [**Quillpad**](./Quillpad/README.md) | Beautifully designed offline note-taking app | [quillpad/quillpad](https://github.com/quillpad/quillpad) | 1k+ |
 
 ---
 <div align="center">

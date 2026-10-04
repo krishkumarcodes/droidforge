@@ -14,11 +14,11 @@
 
 | App Name | Description | GitHub Repository | Stars |
 |---|---|---|---|
-| **Bitwarden** | Official Android client for the Bitwarden password manager. | https://github.com/bitwarden/mobile | 10k+ |
-| **KeePassDX** | Lightweight and fully featured KeePass client for Android. | https://github.com/Kunzisoft/KeePassDX | 5k+ |
-| **AuthPass** | Password manager compatible with KeePass based on Flutter. | https://github.com/authpass/authpass | 1k+ |
-| **Password Store** | Android client for the standard password manager (`pass`). | https://github.com/AndroidPasswordStore/AndroidPasswordStore | 2k+ |
-| **Proton Pass** | Open-source Android app for the Proton Pass ecosystem. | https://github.com/protonpass/android | 1k+ |
+| [**Bitwarden**](./Bitwarden/README.md) | Official Android client for the Bitwarden password manager. | https://github.com/bitwarden/mobile | 10k+ |
+| [**KeePassDX**](./KeePassDX/README.md) | Lightweight and fully featured KeePass client for Android. | https://github.com/Kunzisoft/KeePassDX | 5k+ |
+| [**AuthPass**](./AuthPass/README.md) | Password manager compatible with KeePass based on Flutter. | https://github.com/authpass/authpass | 1k+ |
+| [**Password Store**](./Password_Store/README.md) | Android client for the standard password manager (`pass`). | https://github.com/AndroidPasswordStore/AndroidPasswordStore | 2k+ |
+| [**Proton Pass**](./Proton_Pass/README.md) | Open-source Android app for the Proton Pass ecosystem. | https://github.com/protonpass/android | 1k+ |
 
 ---
 <div align="center">

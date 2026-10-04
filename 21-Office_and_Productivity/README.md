@@ -14,8 +14,8 @@
 
 | App Name | Description | GitHub Repository | Stars |
 |---|---|---|---|
-| **Super Productivity** | Advanced ToDo list, time tracker, and Jira task manager. | https://github.com/johannesjo/super-productivity | 10k+ |
-| **Collabora Office** | Mobile app bringing LibreOffice document editing capabilities. | https://github.com/CollaboraOnline/online | 5k+ |
+| [**Super Productivity**](./Super_Productivity/README.md) | Advanced ToDo list, time tracker, and Jira task manager. | https://github.com/johannesjo/super-productivity | 10k+ |
+| [**Collabora Office**](./Collabora_Office/README.md) | Mobile app bringing LibreOffice document editing capabilities. | https://github.com/CollaboraOnline/online | 5k+ |
 
 ---
 <div align="center">

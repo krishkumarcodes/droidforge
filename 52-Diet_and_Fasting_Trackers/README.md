@@ -14,11 +14,11 @@
 
 | App Name | Description | GitHub Repo | Approx. Stars |
 |----------|-------------|-------------|---------------|
-| **Open Food Facts** | Scan food products to see ingredients, scores, and nutrition | [https://github.com/openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp) | ⭐ 2.5k |
-| **RunnerUp** | Open source run and fitness tracker using GPS | [https://github.com/jonasoreland/runnerup](https://github.com/jonasoreland/runnerup) | ⭐ 1.2k |
-| **Waistline** | A simple calorie counter and weight tracker | [https://github.com/davidhealey/waistline](https://github.com/davidhealey/waistline) | ⭐ 900 |
-| **FitoTrack** | A privacy-focused workout, cycling, and running tracker | [https://github.com/Zensey/FitoTrack](https://github.com/Zensey/FitoTrack) | ⭐ 500 |
-| **wger (Flutter)** | The companion mobile app for the wger fitness/diet API | [https://github.com/wger-project/flutter](https://github.com/wger-project/flutter) | ⭐ 400 |
+| [**Open Food Facts**](./Open_Food_Facts/README.md) | Scan food products to see ingredients, scores, and nutrition | [https://github.com/openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp) | ⭐ 2.5k |
+| [**RunnerUp**](./RunnerUp/README.md) | Open source run and fitness tracker using GPS | [https://github.com/jonasoreland/runnerup](https://github.com/jonasoreland/runnerup) | ⭐ 1.2k |
+| [**Waistline**](./Waistline/README.md) | A simple calorie counter and weight tracker | [https://github.com/davidhealey/waistline](https://github.com/davidhealey/waistline) | ⭐ 900 |
+| [**FitoTrack**](./FitoTrack/README.md) | A privacy-focused workout, cycling, and running tracker | [https://github.com/Zensey/FitoTrack](https://github.com/Zensey/FitoTrack) | ⭐ 500 |
+| [**wger (Flutter)**](./wger__Flutter_/README.md) | The companion mobile app for the wger fitness/diet API | [https://github.com/wger-project/flutter](https://github.com/wger-project/flutter) | ⭐ 400 |
 
 ---
 <div align="center">

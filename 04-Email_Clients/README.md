@@ -14,10 +14,10 @@
 
 | App Name | Description | GitHub Repo | Stars |
 | :--- | :--- | :--- | :--- |
-| **Thunderbird (K-9)** | Advanced email client with unified inbox | [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) | 8k+ |
-| **FairEmail** | Fully featured, privacy-friendly email app | [M66B/FairEmail](https://github.com/M66B/FairEmail) | 4k+ |
-| **Proton Mail** | Official encrypted email client for Proton users | [ProtonMail/android-mail](https://github.com/ProtonMail/android-mail) | 1k+ |
-| **Tutanota** | Open-source client for the Tuta encrypted email service | [tutao/tutanota](https://github.com/tutao/tutanota) | 5k+ |
+| [**Thunderbird (K-9)**](./Thunderbird__K-9_/README.md) | Advanced email client with unified inbox | [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) | 8k+ |
+| [**FairEmail**](./FairEmail/README.md) | Fully featured, privacy-friendly email app | [M66B/FairEmail](https://github.com/M66B/FairEmail) | 4k+ |
+| [**Proton Mail**](./Proton_Mail/README.md) | Official encrypted email client for Proton users | [ProtonMail/android-mail](https://github.com/ProtonMail/android-mail) | 1k+ |
+| [**Tutanota**](./Tutanota/README.md) | Open-source client for the Tuta encrypted email service | [tutao/tutanota](https://github.com/tutao/tutanota) | 5k+ |
 
 ---
 <div align="center">

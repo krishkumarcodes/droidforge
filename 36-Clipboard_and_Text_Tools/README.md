@@ -14,8 +14,8 @@
 
 | App Name | Description | GitHub Repository | Stars |
 |----------|-------------|-------------------|-------|
-| **XClipper** | A smart clipboard manager that syncs copied text between Android and Windows. | https://github.com/kaustubhpatange/XClipper | 1k+ |
-| **Clip Stack** | A powerful clipboard history manager that keeps track of copied text. | https://github.com/heruoxin/Clip-Stack | 1k+ |
+| [**XClipper**](./XClipper/README.md) | A smart clipboard manager that syncs copied text between Android and Windows. | https://github.com/kaustubhpatange/XClipper | 1k+ |
+| [**Clip Stack**](./Clip_Stack/README.md) | A powerful clipboard history manager that keeps track of copied text. | https://github.com/heruoxin/Clip-Stack | 1k+ |
 
 ---
 <div align="center">

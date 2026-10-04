@@ -14,11 +14,11 @@
 
 | App Name | Description | GitHub Repo Link | Approx Stars |
 |---|---|---|---|
-| **PhotonCamera** | Advanced camera app focusing on advanced computational static photography and HDR. | https://github.com/eszdman/PhotonCamera | 1.4k |
-| **MotionCam** | Unique open-source camera app capable of capturing true RAW video on Android devices. | https://github.com/mirsadm/MotionCam | 1.8k |
-| **FreeDCam** | A highly advanced open-source camera aimed at absolute manual control and diverse APIs. | https://github.com/defcomg/FreeDCam | 400 |
-| **Fossify Gallery** | A highly customizable, privacy-focused gallery app featuring EXIF metadata stripping. | https://github.com/FossifyOrg/Gallery | 2.1k |
-| **LibreCamera** | A modern, free, and privacy-first Android camera application built using Flutter. | https://github.com/iakdis/librecamera | 100 |
+| [**PhotonCamera**](./PhotonCamera/README.md) | Advanced camera app focusing on advanced computational static photography and HDR. | https://github.com/eszdman/PhotonCamera | 1.4k |
+| [**MotionCam**](./MotionCam/README.md) | Unique open-source camera app capable of capturing true RAW video on Android devices. | https://github.com/mirsadm/MotionCam | 1.8k |
+| [**FreeDCam**](./FreeDCam/README.md) | A highly advanced open-source camera aimed at absolute manual control and diverse APIs. | https://github.com/defcomg/FreeDCam | 400 |
+| [**Fossify Gallery**](./Fossify_Gallery/README.md) | A highly customizable, privacy-focused gallery app featuring EXIF metadata stripping. | https://github.com/FossifyOrg/Gallery | 2.1k |
+| [**LibreCamera**](./LibreCamera/README.md) | A modern, free, and privacy-first Android camera application built using Flutter. | https://github.com/iakdis/librecamera | 100 |
 
 ---
 <div align="center">

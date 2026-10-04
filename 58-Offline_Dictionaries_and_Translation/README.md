@@ -14,11 +14,11 @@
 
 | App Name | Description | GitHub Repo Link | Approx Stars |
 |---|---|---|---|
-| **Kiwix** | The ultimate offline reader for Wikipedia, StackExchange, and comprehensive dictionaries. | https://github.com/kiwix/kiwix-android | 1.3k |
-| **Aard 2** | An advanced offline dictionary reader capable of parsing massive compressed wiki formats. | https://github.com/itkach/aard2-android | 700 |
-| **dikt** | A minimalist, offline cross-platform dictionary reader designed for one-handed use. | https://github.com/maxim-saplin/dikt | 100 |
-| **OSS-Dict** | An entirely offline and ad-free dictionary application dedicated strictly to definitions. | https://github.com/Akylas/OSS-Dict | 50 |
-| **EnglishWhiz** | A fluid, Jetpack Compose-based offline English dictionary and thesaurus application. | https://github.com/ezechuka/EnglishWhiz | 50 |
+| [**Kiwix**](./Kiwix/README.md) | The ultimate offline reader for Wikipedia, StackExchange, and comprehensive dictionaries. | https://github.com/kiwix/kiwix-android | 1.3k |
+| [**Aard 2**](./Aard_2/README.md) | An advanced offline dictionary reader capable of parsing massive compressed wiki formats. | https://github.com/itkach/aard2-android | 700 |
+| [**dikt**](./dikt/README.md) | A minimalist, offline cross-platform dictionary reader designed for one-handed use. | https://github.com/maxim-saplin/dikt | 100 |
+| [**OSS-Dict**](./OSS-Dict/README.md) | An entirely offline and ad-free dictionary application dedicated strictly to definitions. | https://github.com/Akylas/OSS-Dict | 50 |
+| [**EnglishWhiz**](./EnglishWhiz/README.md) | A fluid, Jetpack Compose-based offline English dictionary and thesaurus application. | https://github.com/ezechuka/EnglishWhiz | 50 |
 
 ---
 <div align="center">

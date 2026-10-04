@@ -14,11 +14,11 @@
 
 | App Name | Description | GitHub Repository | Stars |
 |---|---|---|---|
-| **WireGuard** | Modern, fast, and secure VPN protocol implementation for Android. | https://github.com/WireGuard/wireguard-android | 5k+ |
-| **Orbot** | Proxy with Tor to empower apps to use the internet more securely. | https://github.com/guardianproject/orbot | 5k+ |
-| **NetGuard** | Simple rootless firewall for blocking internet access per app. | https://github.com/M66B/NetGuard | 10k+ |
-| **OpenVPN for Android** | Feature-rich client bridging OpenVPN to the Android VPNService. | https://github.com/schwabe/ics-openvpn | 5k+ |
-| **RethinkDNS** | Anti-censorship and anti-tracker DNS and Firewall over WireGuard. | https://github.com/celzero/rethink-app | 5k+ |
+| [**WireGuard**](./WireGuard/README.md) | Modern, fast, and secure VPN protocol implementation for Android. | https://github.com/WireGuard/wireguard-android | 5k+ |
+| [**Orbot**](./Orbot/README.md) | Proxy with Tor to empower apps to use the internet more securely. | https://github.com/guardianproject/orbot | 5k+ |
+| [**NetGuard**](./NetGuard/README.md) | Simple rootless firewall for blocking internet access per app. | https://github.com/M66B/NetGuard | 10k+ |
+| [**OpenVPN for Android**](./OpenVPN_for_Android/README.md) | Feature-rich client bridging OpenVPN to the Android VPNService. | https://github.com/schwabe/ics-openvpn | 5k+ |
+| [**RethinkDNS**](./RethinkDNS/README.md) | Anti-censorship and anti-tracker DNS and Firewall over WireGuard. | https://github.com/celzero/rethink-app | 5k+ |
 
 ---
 <div align="center">

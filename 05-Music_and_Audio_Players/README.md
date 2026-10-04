@@ -14,11 +14,11 @@
 
 | App Name | Description | GitHub Repo | Stars |
 | :--- | :--- | :--- | :--- |
-| **Spotube** | Spotify client that uses YouTube for audio delivery | [KRTirtho/spotube](https://github.com/KRTirtho/spotube) | 20k+ |
-| **Retro Music Player** | Stunningly designed local music player | [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) | 6k+ |
-| **Vinyl Music Player** | Material design offline music player | [VinylMusicPlayer/VinylMusicPlayer](https://github.com/VinylMusicPlayer/VinylMusicPlayer) | 2k+ |
-| **Musify** | Ad-free music streaming and downloading | [gokadzev/Musify](https://github.com/gokadzev/Musify) | 3k+ |
-| **Music Player GO** | Minimal, lightweight local audio player | [enricocid/Music-Player-GO](https://github.com/enricocid/Music-Player-GO) | 1k+ |
+| [**Spotube**](./Spotube/README.md) | Spotify client that uses YouTube for audio delivery | [KRTirtho/spotube](https://github.com/KRTirtho/spotube) | 20k+ |
+| [**Retro Music Player**](./Retro_Music_Player/README.md) | Stunningly designed local music player | [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) | 6k+ |
+| [**Vinyl Music Player**](./Vinyl_Music_Player/README.md) | Material design offline music player | [VinylMusicPlayer/VinylMusicPlayer](https://github.com/VinylMusicPlayer/VinylMusicPlayer) | 2k+ |
+| [**Musify**](./Musify/README.md) | Ad-free music streaming and downloading | [gokadzev/Musify](https://github.com/gokadzev/Musify) | 3k+ |
+| [**Music Player GO**](./Music_Player_GO/README.md) | Minimal, lightweight local audio player | [enricocid/Music-Player-GO](https://github.com/enricocid/Music-Player-GO) | 1k+ |
 
 ---
 <div align="center">
