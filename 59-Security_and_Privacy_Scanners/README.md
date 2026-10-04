@@ -1,8 +1,16 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FFD700&height=150&section=header&text=Security%20%26%20Privacy%20Scanners&fontSize=40&fontColor=FFD700&animation=fadeIn&fontAlignY=40" width="100%" alt="Header" />
+<div align="center" id="top">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=120&section=header&text=Security%20%26%20Privacy%20Scanners&fontSize=40&fontColor=00FF41&animation=fadeIn&fontAlignY=40" width="100%" alt="Header" />
+  
+  <br>
+  
+  <a href="https://github.com/krishkumarcodes/awesome-android-foss">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Explore+the+best+open-source+apps;Handpicked+for+your+privacy;Ditch+the+bloatware;Forge+your+Android+experience" alt="Typing Animation" />
+  </a>
 </div>
 
-## 📱 Security & Privacy Scanners
+<br>
+
+> **✨ Security & Privacy Scanners** - *Carefully curated list of the best FOSS alternatives.*
 
 | App Name | Description | GitHub Repo Link | Approx Stars |
 |---|---|---|---|
@@ -12,9 +20,9 @@
 | **AndroDR** | An on-device endpoint detection tool that scans for spyware, stalkerware, and anomalies. | https://github.com/yasirhamza/AndroDR | 200 |
 | **NetGuard** | A sophisticated rootless firewall that tracks and blocks individual app network accesses. | https://github.com/M66B/NetGuard | 9.0k |
 
-<br>
-
+---
 <div align="center">
-  <p><strong>⭐ If you found these apps useful, please give the main repository a STAR! ⭐</strong></p>
-  <a href="../README.md">⬅️ Back to Main Directory</a>
+  <p><kbd> <a href="../README.md">⬅️ Return to Main Directory</a> </kbd> &nbsp;|&nbsp; <kbd> <a href="#top">⬆️ Back to Top</a> </kbd></p>
+  <br>
+  <p><strong>⭐ If you found these apps useful, please give the <a href="https://github.com/krishkumarcodes/awesome-android-foss">main repository</a> a STAR! ⭐</strong></p>
 </div>

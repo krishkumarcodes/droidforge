@@ -1,6 +1,10 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=250&section=header&text=DroidForge%20⚔️&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=📱%20The%20Ultimate%20Collection%20of%20270+%20Free%20&%20Open-Source%20Android%20Apps&descSize=18&descAlignY=58&descAlign=50&stroke=00FF41&strokeWidth=1" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=250&section=header&text=DroidForge%20⚔️&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=📱%20The%20Ultimate%20Collection%20of%20320+%20Free%20&%20Open-Source%20Android%20Apps&descSize=18&descAlignY=58&descAlign=50&stroke=00FF41&strokeWidth=1" width="100%" alt="Header" />
+  <br>
+  <a href="https://github.com/krishkumarcodes/awesome-android-foss">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+DroidForge;The+Ultimate+Android+FOSS+Collection;Ditch+the+bloatware;Reclaim+your+privacy" alt="Typing Animation" />
+  </a>
 </div>
 
 <div align="center">
