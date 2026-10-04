@@ -10,7 +10,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-00FF41?style=for-the-badge&logoColor=0D1117&labelColor=0D1117" alt="Maintained" />
   <img src="https://img.shields.io/badge/Open%20Source-100%25-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117" alt="Open Source" />
-  <img src="https://img.shields.io/badge/Apps-320+-00FF41?style=for-the-badge&logoColor=0D1117&labelColor=0D1117" alt="Apps" />
+  <img src="https://img.shields.io/badge/Apps-370+-00FF41?style=for-the-badge&logoColor=0D1117&labelColor=0D1117" alt="Apps" />
 </div>
 
 <br>
@@ -60,6 +60,21 @@ Welcome to **DroidForge**, the ultimate Android FOSS repository! This carefully 
 
 ---
 
+
+<div align="center">
+  <p><strong>⭐ If you found this repository useful, please give it a STAR! ⭐</strong></p>
+  <p>Forged by <strong>Krish Kumar</strong></p>
+  <a href="https://github.com/krishkumarcodes">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub" />
+  </a>
+</div>
+- [**Audio & Video Calling**](./65-Audio_and_Video_Calling/) (13 apps)
+- [**Kids & Educational**](./66-Kids_and_Educational/) (13 apps)
+- [**Hardware & Gadget Companions**](./67-Hardware_and_Gadget_Companions/) (13 apps)
+- [**Creative Writing & Outlining**](./68-Creative_Writing_and_Outlining/) (13 apps)
+- [**Meditation & Mindfulness**](./69-Meditation_and_Mindfulness/) (13 apps)
+
+---
 
 <div align="center">
   <p><strong>⭐ If you found this repository useful, please give it a STAR! ⭐</strong></p>
