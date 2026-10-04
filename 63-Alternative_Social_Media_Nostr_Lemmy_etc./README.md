@@ -1,10 +1,10 @@
 <div align="center" id="top">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,100:97EFBA&height=150&section=header&text=Alternative%20Social%20Media%20%28Nostr%2C%20Lemmy%2C%20etc.%29&fontSize=40&fontColor=97EFBA&animation=fadeIn&fontAlignY=35&desc=Curated%20Open%20Source%20Alternatives&descSize=15&descAlignY=60&descAlign=50&stroke=97EFBA&strokeWidth=1" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:F864A2&height=150&section=header&text=Alternative%20Social%20Media%20%28Nostr%2C%20Lemmy%2C%20etc.%29&fontSize=40&fontColor=F864A2&animation=fadeIn&fontAlignY=35&desc=Curated%20Open%20Source%20Alternatives&descSize=15&descAlignY=60&descAlign=50&stroke=F864A2&strokeWidth=1" width="100%" alt="Header" />
   
   <br>
   
   <a href="https://github.com/krishkumarcodes/droidforge">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=97EFBA&center=true&vCenter=true&width=500&lines=Explore+the+best+open-source+apps;Handpicked+for+your+privacy;Ditch+the+bloatware;Forge+your+Android+experience" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=F864A2&center=true&vCenter=true&width=500&lines=Explore+the+best+open-source+apps;Handpicked+for+your+privacy;Ditch+the+bloatware;Forge+your+Android+experience" alt="Typing Animation" />
   </a>
 </div>
 
